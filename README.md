@@ -92,6 +92,7 @@ The core provides the following filters in the `Assetic\Filter` namespace:
  * `Sass\ScssFilter`: parses SCSS into CSS
  * `SprocketsFilter`: Sprockets Javascript dependency management
  * `StylusFilter`: parses STYL into CSS
+ * `TypeScript`: compiles TypeScript into Javascript
  * `Yui\CssCompressorFilter`: compresses CSS using the YUI compressor
  * `Yui\JsCompressorFilter`: compresses Javascript using the YUI compressor
 
